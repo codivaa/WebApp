@@ -21,6 +21,7 @@ This project is a web application built using ASP.NET Core MVC. It follows a str
 - ASP.NET Core MVC
 - HTML
 - CSS
+- Bootstrap (used for layout and base components, customized with custom styling)
 
 ## Project Structure
 
